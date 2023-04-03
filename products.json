@@ -1,0 +1,74 @@
+{
+    "items": [{
+            "sys": { "id": "1" },
+            "fields": {
+                "title": "Nike",
+                "price": 130.00,
+                "image": { "fields": { "file": { "url": "./images/air_jordan.jpg" } } }
+            }
+        },
+
+        {
+            "sys": { "id": "2" },
+            "fields": {
+                "title": "Air Jordan",
+                "price": 550.00,
+                "image": { "fields": { "file": { "url": "./images/airnike.png" } } }
+            }
+        },
+
+        {
+            "sys": { "id": "3" },
+            "fields": {
+                "title": "Nike",
+                "price": 300.00,
+                "image": { "fields": { "file": { "url": "./images/air.jpg" } } }
+            }
+        },
+
+        {
+            "sys": { "id": "4" },
+            "fields": {
+                "title": "Air Force1",
+                "price": 250.00,
+                "image": { "fields": { "file": { "url": "./images/airforce_1.jpg" } } }
+            }
+        },
+
+        {
+            "sys": { "id": "5" },
+            "fields": {
+                "title": "vans",
+                "price": 40.00,
+                "image": { "fields": { "file": { "url": "./images/vans.jpg" } } }
+            }
+        },
+
+        {
+            "sys": { "id": "6" },
+            "fields": {
+                "title": "Nike",
+                "price": 149.99,
+                "image": { "fields": { "file": { "url": "./images/dark_airforce.jpg" } } }
+            }
+        },
+
+        {
+            "sys": { "id": "7" },
+            "fields": {
+                "title": "dark nike",
+                "price": 70.00,
+                "image": { "fields": { "file": { "url": "./images/darknike.jpg" } } }
+            }
+        },
+
+        {
+            "sys": { "id": "8" },
+            "fields": {
+                "title": "Fear of god",
+                "price": 800.00,
+                "image": { "fields": { "file": { "url": "./images/fear_of_god.jpg" } } }
+            }
+        }
+    ]
+}
